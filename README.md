@@ -7,8 +7,8 @@
 sqrt(-1)#0001|
 
 🎓 Studying electrical and computer engineering<br/>
-    @ Instituto Superior Técnico - Universidade de Lisboa
+    @ [Instituto Superior Técnico - Universidade de Lisboa](https://tecnico.ulisboa.pt/en/)
 
 📚 Learning
-<p></a><img src="https://github.com/eusouojoao/eusouojoao/blob/main/assets/C-logo.png" width="25" transparent><span style="font-weight:bold"> C programming language </span></p>
-<p></a><img src="https://github.com/eusouojoao/eusouojoao/blob/main/assets/RISC-V-logo.jpg" width="30" transparent><span style="font-weight:bold"> RISC-V ISA </span></p>
+<p></a><img src="https://github.com/eusouojoao/eusouojoao/blob/main/assets/C-logo.png" width="25" transparent><span align="center style="font-weight:bold"> C programming language </span></p>
+<p></a><img src="https://github.com/eusouojoao/eusouojoao/blob/main/assets/RISC-V-logo.jpg" width="30" transparent><span align="center" style="font-weight:bold"> RISC-V ISA </span></p>

@@ -5,3 +5,10 @@
 ***Discord:***|
 ------------ |
 sqrt(-1)#0001|
+
+🎓 Studying electrical and computer engineering
+    @ Instituto Superior Técnico - Universidade de Lisboa
+
+📚 Learning
+  - C
+  - RISC-V ISA

@@ -10,5 +10,14 @@ sqrt(-1)#0001|
     @ Instituto Superior Técnico - Universidade de Lisboa
 
 📚 Learning
-<space/><space/>- C
-<space/><space/>- RISC-V ISA
+<style type="text/css">
+.float-right {
+  float: right;
+}
+</style>
+
+.right.float-right[
+- C
+- RISC-V ISA
+]
+

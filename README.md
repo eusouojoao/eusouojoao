@@ -1,6 +1,6 @@
 ## printf("Hello there \\[T]/ ");
 
-<img align="left" src="https://github.com/eusouojoao/eusouojoao/assets/vibin.gif"/>
+<img align="left" src="https://github.com/eusouojoao/eusouojoao/blob/main/assets/vibin.gif"/>
 
 **Discord:**|
 ------------ |

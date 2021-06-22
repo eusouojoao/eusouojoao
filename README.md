@@ -9,6 +9,6 @@ sqrt(-1)#0001|
 🎓 Studying electrical and computer engineering<br/>
     @ Instituto Superior Técnico - Universidade de Lisboa
 
-📚 Learning<br/>
+📚 Learning
 - C
 - RISC-V ISA

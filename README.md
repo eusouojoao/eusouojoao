@@ -10,5 +10,6 @@ sqrt(-1)#0001|
     @ Instituto Superior Técnico - Universidade de Lisboa
 
 📚 Learning
-  \nC
-  \nRISC-V ISA
+<br/><br/>
+  C
+  RISC-V ISA

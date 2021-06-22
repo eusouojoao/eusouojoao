@@ -10,5 +10,5 @@ sqrt(-1)#0001|
     @ [Instituto Superior Técnico - Universidade de Lisboa](https://tecnico.ulisboa.pt/en/)
 
 📚 Learning
-<p></a><img src="https://github.com/eusouojoao/eusouojoao/blob/main/assets/C-logo.png" width="25" transparent><div>| C programming language |</div></p>
-<p></a><img src="https://github.com/eusouojoao/eusouojoao/blob/main/assets/RISC-V-logo.jpg" width="30" transparent><div>| RISC-V ISA |</div></p>
+<p></a><img src="https://github.com/eusouojoao/eusouojoao/blob/main/assets/C-logo.png" width="25" transparent><span> | C programming language | </span></p>
+<p></a><img src="https://github.com/eusouojoao/eusouojoao/blob/main/assets/RISC-V-logo.jpg" width="30" transparent><span> | RISC-V ISA | </span></p>

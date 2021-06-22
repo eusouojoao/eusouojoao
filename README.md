@@ -1,4 +1,4 @@
-## printf(" hello there \\[T]/ ");
+## printf("Hello there \\[T]/ ");
 
 <img align="left" src="https://github.com/eusouojoao/eusouojoao/assets/vibin.gif"/>
 

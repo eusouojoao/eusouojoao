@@ -6,9 +6,9 @@
 ------------ |
 sqrt(-1)#0001|
 
-🎓 Studying electrical and computer engineering<br/><br/>
+🎓 Studying electrical and computer engineering<br/>
     @ Instituto Superior Técnico - Universidade de Lisboa
 
-📚 Learning<br/><br/>
-  C<br/><br/>
+📚 Learning<br/>
+  C<br/>
   RISC-V ISA

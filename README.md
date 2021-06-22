@@ -2,6 +2,6 @@
 
 <img align="left" src="https://github.com/eusouojoao/eusouojoao/blob/main/assets/vibin.gif" width=50% height=40%/>
 
-**Discord:**|
+***Discord:***|
 ------------ |
 sqrt(-1)#0001|

@@ -13,4 +13,4 @@ sqrt(-1)#0001|
 
 # 📚 Learning
 <p><span> C programming language [T]/ </span></a><img src="https://github.com/eusouojoao/eusouojoao/blob/main/assets/C-logo.png" width="25" transparent></p>
-<p><span> RISC-V ISA [T]/ </span></a><img src="https://github.com/eusouojoao/eusouojoao/blob/main/assets/RISC-V-logo.jpg" width="30" transparent></p>
+<p><span> RISC-V Instruction Set Architecture [T]/ </span></a><img src="https://github.com/eusouojoao/eusouojoao/blob/main/assets/RISC-V-logo.jpg" width="30" transparent></p>

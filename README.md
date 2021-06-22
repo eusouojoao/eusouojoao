@@ -10,5 +10,5 @@ sqrt(-1)#0001|
     @ Instituto Superior Técnico - Universidade de Lisboa
 
 📚 Learning
-    * C
-    * RISC-V ISA
+<p></a><img src="" width="30"><em> C programming language </em></p>
+<p></a><img src="" width="30"><em> RISC-V ISA </em></p>

@@ -2,7 +2,7 @@
 
 <img align="left" src="https://github.com/eusouojoao/eusouojoao/blob/main/assets/vibin.gif" width=50% height=40%/>
 
-# <img src="https://github.com/eusouojoao/eusouojoao/blob/main/assets/bmo.gif" width="30"> About me 
+# <img src="https://github.com/eusouojoao/eusouojoao/blob/main/assets/bmo.gif" width="40> About me 
 
 ***Discord:***|
 ------------ |
